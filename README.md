@@ -5,7 +5,7 @@ A CLI app that a Node CLI that takes in information about employees and generate
 This is a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ## How To Use The App:
-Clone the repo from https://github.com/MiteshModi003/Team-Generator
+Clone the repo from https://github.com/MiteshModi003/Team-Generator. <br>
 Install the modules with: npm install
 Open app.js in Terminal, then input: node app.js
 Follow the instructions on the screen.
