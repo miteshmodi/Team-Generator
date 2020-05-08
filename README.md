@@ -16,3 +16,6 @@ The dependencies are: jest for running the provided tests, and inquirer for coll
 
 ## User input
 The project prompts the user to build an engineering team. An engineering team consists of a manager, and any number of engineers and interns.
+
+## CLI Screenshot 
+![Image of CLI-demo](https://github.com/Miteshmodi003/Team-Generator/blob/master/Assets/cli-demo.JPG)
